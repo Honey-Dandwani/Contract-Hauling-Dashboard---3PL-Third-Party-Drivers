@@ -1,6 +1,3 @@
-### Fleet Management Dashboard
- Fleet Management Dashboard - onitor liters consumed, total drivers, kilometers traveled, fixed costs, 
- fuel usage, maintenance expenses, and driver KPIs in a single, intuitive interface. Streamline operations,
- enhance decision-making, and optimize your fleet's performance.
-
+### Contract Hauling Dashboard
+ The contract hauling project aims to optimize transportation logistics and resource allocation for the efficient delivery of goods and materials. It involves managing and coordinating transportation contracts, routes, and carriers to ensure timely and cost-effective delivery while minimizing operational risks and expenses. Leveraging data-driven approaches and advanced analytics, the project focuses on improving route planning, load optimization, and fleet management to enhance overall supply chain performance and customer satisfaction.
  ![Dashboard](https://github.com/mlmariscotes/Fleet-Management-Dashboard/assets/99033220/4e12c5a4-8bbe-4094-b02c-820c4e5005de)
