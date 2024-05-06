@@ -147,20 +147,50 @@ B/(W)%= Plan total expense - Actual total Expense
 
 Contract Hauling Dashboard Vocabulary:
 
-CY: Current year
-PY: Previous year
-Runs: Number of trips or journeys made by a carrier to transport goods.
-Line Haul Rate: Price or cost associated with the actual transportation of goods.
-Fuel Surcharge: Additional fee or rate adjustment to compensate for fuel price fluctuations.
-Total Expense: Overall cost incurred by the carrier for providing transportation services.
-Rate/mile: Rate per mile calculated as Line haul rate divided by miles.
-Cost/mile: Cost per mile calculated as Total Expense divided by miles.
-Runs Mix: Distribution or proportion of different types of transportation services.
-Carrier: Company or entity responsible for transporting goods.
-Route Category: Classification of transportation routes based on distance, geography, or service requirements.
-Price Type: Different pricing models or types used in contract hauling.
-Destination Location: Customer's location.
-Routes: Specific transportation routes or paths followed by carriers.
-Actual Shipping Period: Period and year together.
-DSD Sales Volume: Quantity or amount of goods being transported.
-Period: Specific time intervals within a year.
+A. CY: Current year
+
+B. PY: Previous year
+
+C. Runs: Number of trips or journeys made by a carrier to transport goods.
+
+D. Line Haul Rate: Price or cost associated with the actual transportation of goods.
+
+E. Fuel Surcharge: Additional fee or rate adjustment to compensate for fuel price fluctuations.
+
+F. Total Expense: Overall cost incurred by the carrier for providing transportation services.
+
+G. Rate/mile: Rate per mile calculated as Line haul rate divided by miles.
+
+H. Cost/mile: Cost per mile calculated as Total Expense divided by miles.
+
+I. Runs Mix: Distribution or proportion of different types of transportation services.
+
+J. Carrier: Company or entity responsible for transporting goods.
+
+K. Route Category: Classification of transportation routes based on distance, geography, or service requirements.
+
+L. Price Type: Different pricing models or types used in contract hauling.
+
+M. Destination Location: Customer's location.
+
+N. Routes: Specific transportation routes or paths followed by carriers.
+
+O. Actual Shipping Period: Period and year together.
+
+P. DSD Sales Volume: Quantity or amount of goods being transported.
+
+Q. Period: Specific time intervals within a year.
+
+Pages Of Dashboard
+
+![IMG_3512 2](https://github.com/Honey-Dandwani/Contract-Hauling-Dashboard---3PL-Third-Party-Drivers/assets/89872022/da796ffe-5b07-4613-b0ea-13bc1960e02f)
+![IMG_3509](https://github.com/Honey-Dandwani/Contract-Hauling-Dashboard---3PL-Third-Party-Drivers/assets/89872022/f778e45a-ca00-4eec-a2dd-65d8b2d01482)
+![IMG_3488](https://github.com/Honey-Dandwani/Contract-Hauling-Dashboard---3PL-Third-Party-Drivers/assets/89872022/b2ec255e-2414-4697-9dba-e59c4ccb1b8e)
+![IMG_3510](https://github.com/Honey-Dandwani/Contract-Hauling-Dashboard---3PL-Third-Party-Drivers/assets/89872022/e0bd80b4-5f37-4068-9040-9f56533937dc)
+![IMG_3511](https://github.com/Honey-Dandwani/Contract-Hauling-Dashboard---3PL-Third-Party-Drivers/assets/89872022/290f3f14-4a86-44aa-9eaa-71a750e4c2ef)
+![IMG_3498 2](https://github.com/Honey-Dandwani/Contract-Hauling-Dashboard---3PL-Third-Party-Drivers/assets/89872022/733a7c66-2df0-453f-879e-4cfe2e881aa5)
+![IMG_3499 2](https://github.com/Honey-Dandwani/Contract-Hauling-Dashboard---3PL-Third-Party-Drivers/assets/89872022/16c878e4-a38a-47c1-afe8-d6150ac0478c)
+
+
+
+
