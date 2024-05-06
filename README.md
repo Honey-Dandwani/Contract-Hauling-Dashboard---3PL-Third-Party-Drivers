@@ -77,39 +77,74 @@ The Power BI Analyst is responsible for:
 
 Measures:
 
+
 PY Miles: Calculate the total miles for Previous year (2022).
+
 PY Miles = Filter(year), Total Miles
+
 Miles vs PY (growth%): Find the growth percentage.
+
 Growth = miles2023/miles2022 - 1, 0
+
 CY Runs: Calculate the number of runs for the current year (2023).
+
 PY Runs: Calculate the number of runs for the Previous year (2022).
+
 PY Runs = Filter(year), Number of Runs
+
 Runs vs PY (growth%): Find the growth percentage.
+
 Growth = Runs2023/Runs2022 - 1, 0
+
 CY Line Haul Rate: Calculate the average line haul rate for the current year (2023).
+
 CY line haul rate = filter(year), Line haul rate
+
 PY Line Haul Rate: Calculate the average line haul rate for the Previous year (2023).
+
 PY line haul rate = filter(year), Line haul rate
+
 Average Line Haul Rate vs PY (growth %): Find the growth percentage.
+
 Growth -Line Haul Rate 2023 - Line Haul Rate 2022/ Line Haul Rate 2022
+
 CY Volume 2023: Calculate the Volume for the Current year (2023).
+
 PY Volume 2022: Calculate the Volume for the Previous year (2023).
+
 PY Volume 2022 - filter(year), Volume
+
 Volume vs PY (Growth %): Find the growth percentage.
+
 Growth = Volume 2023 - Volume 2022 / Volume 2022
+
 Rate/Mile: Find the rate per mile.
+
 Rate per mile = Line haul rate/Miles
+
 Cost per Mile: Calculate the cost per mile.
+
 Cost Per mile = Total Expense/Miles
+
 Miles/Run: Calculate the miles per run.
+
 Miles per run = Miles/Number of Runs
+
 YTD Miles: Calculate year-to-date miles.
+
 YTD Miles = Filter(year) = year && Filter(period) = Period, If (Selected year = year. [total miles 2022], [total miles 2023]
+
 YOY Miles%: Calculate the year-over-year growth percentage in miles.
+
 YOY miles (%) = 2023Miles/2022 Miles - 1.0
+
 Runs Mix (%): Calculate the mix of runs based on specific criteria.
+
 Better Worse B/(W) (%): Calculate the Better Worse based on specific criteria.
+
 B/(W)%= Plan total expense - Actual total Expense
+
+
 Contract Hauling Dashboard Vocabulary:
 
 CY: Current year
